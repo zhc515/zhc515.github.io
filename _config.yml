@@ -227,7 +227,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "postsLOL"
       type: posts
     values:
       layout: single
@@ -238,14 +238,14 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: ""
+      path: "pagesLOL"
       type: pages
     values:
       layout: single
       author_profile: true
   # _teaching
   - scope:
-      path: ""
+      path: "teaching"
       type: teaching
     values:
       layout: single
@@ -254,7 +254,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: "publications"
       type: publications
     values:
       layout: single
@@ -263,7 +263,7 @@ defaults:
       comments: true
   # _miscellaneous
   - scope:
-      path: ""
+      path: "miscellaneous"
       type: miscellaneous
     values:
       layout: single
@@ -272,7 +272,7 @@ defaults:
       comment: true
   # _talks
   - scope:
-      path: ""
+      path: "talks"
       type: talks
     values:
       layout: talk
