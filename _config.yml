@@ -237,7 +237,7 @@ defaults:
       author_profile: true
   # _posts
   - scope:
-      path: "posts"
+      path: ""
       type: posts
     values:
       layout: single
@@ -248,21 +248,21 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "pages"
+      path: ""
       type: pages
     values:
       layout: single
       author_profile: true
   # _guide
   - scope:
-      path: "guide"
+      path: ""
       type: guide
     values:
       layout: single
       author_profile: true
   # _teaching
   - scope:
-      path: "teaching"
+      path: ""
       type: teaching
     values:
       layout: single
@@ -271,7 +271,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: "publications"
+      path: ""
       type: publications
     values:
       layout: single
@@ -280,7 +280,7 @@ defaults:
       comments: true
   # _miscellaneous
   - scope:
-      path: "miscellaneous"
+      path: ""
       type: miscellaneous
     values:
       layout: single
@@ -289,7 +289,7 @@ defaults:
       comment: true
   # _talks
   - scope:
-      path: "talks"
+      path: ""
       type: talks
     values:
       layout: talk
