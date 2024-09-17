@@ -221,13 +221,23 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  guide:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
+ # _homepage
+  - scope:
+      path: ""
+      type: homepage
+    values:
+      layout: single
+      author_profile: true
   # _posts
   - scope:
-      path: "postsLOL"
+      path: "posts"
       type: posts
     values:
       layout: single
@@ -238,8 +248,15 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "pagesLOL"
+      path: "pages"
       type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _guide
+  - scope:
+      path: "guide"
+      type: guide
     values:
       layout: single
       author_profile: true
@@ -278,6 +295,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
 
 
 # Sass/SCSS
