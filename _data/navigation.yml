@@ -12,16 +12,19 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-
+    url: /talks/   
+    
+  - title: "Notes"
+    url: /notes/    
+    
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "Guide"
-    url: /markdown/
 
   - title: "Miscellaneous"
     url: /miscellaneous/
+
+  - title: "Guide"
+    url: /markdown-guide/
