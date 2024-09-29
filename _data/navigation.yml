@@ -21,7 +21,7 @@ main:
     url: /notes/    
     
   - title: "Blog Posts"
-    url: /blog-posts/
+    url: /posts/
 
   - title: "Miscellaneous"
     url: /miscellaneous/
