@@ -13,18 +13,16 @@ main:
 
   - title: "Talks"
     url: /talks/   
+
+  - title: "Teaching"
+    url: /teaching/    
     
   - title: "Notes"
     url: /notes/    
     
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blog-posts/
 
   - title: "Miscellaneous"
     url: /miscellaneous/
 
-  - title: "Guide"
-    url: /markdown-guide/
