@@ -38,7 +38,7 @@ redirect_from:
 
 * Language: Chinese, English
 * Programming: Java, C, OCaml
-* Tools: \\(\latex\\), Obsedian, MATLAB
+* Tools: \\(\LaTeX\\), Obsidian, MATLAB
 
 
   
