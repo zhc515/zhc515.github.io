@@ -288,6 +288,15 @@ defaults:
       author_profile: false
       share: false
 
+  # _notes
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: single
+      author_profile: false
+      share: false
+
 
 
 # Sass/SCSS
