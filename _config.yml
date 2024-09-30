@@ -259,7 +259,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
+      share: false
       comments: false
   # _publications
   - scope:
