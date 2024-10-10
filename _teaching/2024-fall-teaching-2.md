@@ -9,4 +9,5 @@ location: "Evanston, US"
 ---
 
 - Held tutorial courses of Math 351-0(Fourier Analysis and Boundary Value Problems)
-- My office hour is Monday 12:30-14:00, Lunt B14, or by appointment.
+- My office hour is Tuesday 12:30-14:00, Lunt B14, or by appointment.
+- Assignment solutions will be posted here.
