@@ -11,4 +11,4 @@ location: "Evanston, US"
 - Held tutorial courses of Math 351-0(Fourier Analysis and Boundary Value Problems)
 - My office hour is Tuesday 12:30-14:00, Lunt B14, or by appointment.
 - Assignment solutions will be posted here:
-[HW1](http://zhc515.github.io/files/Math 351 HW1 solution.pdf)
+[HW1](http://zhc515.github.io/files/Math_351_HW1_solution.pdf)
