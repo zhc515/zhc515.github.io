@@ -1,7 +1,7 @@
 ---
 title: '(With Pengfei Guan) On admissible square roots of non-negative \\(C^{2,2\alpha}\\) functions'
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/C22alpha
 date: 2023-09-01
 venue: 'New York Journal of Mathematics, V. 29 (2023), 1016-1031'
