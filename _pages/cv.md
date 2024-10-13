@@ -17,7 +17,7 @@ redirect_from:
 
 # Publications
 
-- (With Pengfei Guan)On Admissible Square Roots of Non-negative \\(C^{2,2\alpha}\\) Functions, New York Journal of Mathematics, V. 29 (2023), 1016-1031.
+- (With Pengfei Guan) On Admissible Square Roots of Non-negative \\(C^{2,2\alpha}\\) Functions, New York Journal of Mathematics, V. 29 (2023), 1016-1031.
  
 
 # Talks
