@@ -1,10 +1,10 @@
 ---
-title: "On admissible square roots of non-negative C^{2,2\alpha} functions"
+title: "On admissible square roots of non-negative \\(C^{2,2\alpha}\\) functions"
 collection: publications
 category: manuscripts
 permalink: /publication/c22alpha
-excerpt: 'We establish a necessary and sufficient condition for C^{1,\alpha} regularity of the admissible square root of a non-negative C
-{2,2\alpha} function.'
+excerpt: 'We establish a necessary and sufficient condition for \\(C^{1,\alpha}\\) regularity of the admissible square root of a non-negative \\(C
+{2,2\alpha}\\) function.'
 date: 2023-09-01
 venue: 'New York Journal of Mathematics'
 paperurl: 'https://nyjm.albany.edu/j/2023/29-39p.pdf'
