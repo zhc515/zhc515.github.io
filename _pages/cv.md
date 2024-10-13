@@ -22,10 +22,7 @@ redirect_from:
   {% endfor %}</ul>
 
 # Talks
-
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+- (With Pengfei Guan)On Admissible Square Roots of Non-negative \\(C^{2,2\alpha}\\) Functions, New York Journal of Mathematics, V. 29 (2023), 1016-1031.
   
 # Teaching
 
