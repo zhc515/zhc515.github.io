@@ -13,4 +13,7 @@ I'm interested in geometric analysis, in particular complex Monge-Ampère equati
 
 My email is huangchenzhou2029@u.northwestern.edu
 
+# Links
+- [Pengfei Guan](https://www.math.mcgill.ca/guan/)
+- [Gábor Székelyhidi](https://sites.math.northwestern.edu/~gaborsz/)
 
