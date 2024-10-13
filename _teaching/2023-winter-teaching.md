@@ -9,3 +9,6 @@ location: "Montreal, Canada"
 ---
 
 - Held tutorial courses of Math 141(Calculus 2)
+
+- I graded assignments.
+  I graded exams.
