@@ -12,3 +12,5 @@ location: "Evanston, US"
 - My office hour is Tuesday 12:30-14:00, Lunt B14, or by appointment.
 - Assignment solutions will be posted here:
 [HW1](http://zhc515.github.io/files/Math_351_HW1_solution.pdf)
+[HW2](http://zhc515.github.io/files/Math_351_HW2_solution.pdf)
+
