@@ -11,3 +11,4 @@ location: "Evanston, US"
 - Held tutorial courses of Math 230-1(Multivariable Differential Calculus)
 - My office hour is Monday 14:30-16:00, Lunt B14, or by appointment.
 - Notes will be posted here:
+  [Midterm1 Review](http://zhc515.github.io/files/Math_230_mid1_review.pdf)
