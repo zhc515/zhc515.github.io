@@ -12,3 +12,4 @@ location: "Evanston, US"
 - My office hour is Monday 14:30-16:00, Lunt B14, or by appointment.
 - Notes will be posted here:
   [Midterm1 Review](http://zhc515.github.io/files/Math_230_mid1_review.pdf)
+  [Worksheet Nov 12](http://zhc515.github.io/files/Math_230_1_worksheet_annotated.pdf)
