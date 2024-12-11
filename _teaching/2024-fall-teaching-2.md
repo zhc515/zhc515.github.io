@@ -18,4 +18,5 @@ location: "Evanston, US"
 [HW5](http://zhc515.github.io/files/Math_351_HW5_solution.pdf)
 [HW6](http://zhc515.github.io/files/Math_351_HW6_solution.pdf)
 [HW7](http://zhc515.github.io/files/Math_351_HW7_solution.pdf)
+[HW8](http://zhc515.github.io/files/Math_351_HW8_solution.pdf)
 
