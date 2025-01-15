@@ -1,8 +1,8 @@
 ---
 title: "Teaching experience in 2025 winter"
-permalink: /teaching/2025-fall-teaching
+permalink: /teaching/2025-winter-teaching
 venue: "Northwestern University"
-date: Sep 2024-Dec 2024
+date: Jan 2025-Mar 2025
 location: "Evanston, US"
 ---
 
