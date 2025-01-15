@@ -2,6 +2,7 @@
 title: "Teaching experience in 2025 winter"
 collection: research assistant
 permalink: /teaching/2025-winter-teaching
+type: "Research assistant"
 venue: "Northwestern University"
 date: Jan 2025-Mar 2025
 location: "Evanston, US"
