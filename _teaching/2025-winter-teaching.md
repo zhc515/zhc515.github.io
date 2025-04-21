@@ -20,3 +20,5 @@ location: "Evanston, US"
 2/27 Fundamental solution with a viewpoint of distribution theory. Weak maximum principle of Laplace equation, with proof(Strauss 2.3). Statement of strong maximum principle(Evans 2.2 THEOREM 4). Uniqueness of Dirichlet problem by maximum principle(Evans 2.2 THEOREM 5) and by energy method(Evans 2.2 THEOREM 16).
 
 3/6 Duhamel principle for heat equation(Evans 2.3 THEOREM 2). Mean-value property for heat equation(Evans 2.3 THEOREM 3).
+
+3/13 A brief introduction/review of measure theory based probability. Definition of continuous stochastic process.
