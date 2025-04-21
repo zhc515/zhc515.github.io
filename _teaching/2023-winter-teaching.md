@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience in 2023 winter"
 collection: teaching assistant
-type: "Undergraduate course"
+type: "Teaching assistant"
 permalink: /teaching/2023-winter-teaching
 venue: "McGill University"
 date: Jan 2023-May 2023
