@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience in 2024 fall(2)"
 collection: teaching assistant
-type: "Undergraduate course"
+type: "Teaching assistant"
 permalink: /teaching/2024-fall-teaching-2
 venue: "Northwestern University"
 date: Sep 2024-Dec 2024
