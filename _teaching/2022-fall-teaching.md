@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience in 2022 fall"
 collection: teaching assistant
-type: "Undergraduate course"
+type: "Teaching assistant"
 permalink: /teaching/2022-fall-teaching
 venue: "McGill University"
 date: Sep 2022-Dec 2022
