@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience in 2021 fall"
 collection: teaching assistant
-type: "Undergraduate course"
+type: "Teaching assistant"
 permalink: /teaching/2021-fall-teaching
 venue: "McGill University"
 date: Sep 2021-Dec 2021
