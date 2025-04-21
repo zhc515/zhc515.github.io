@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year math PhD student at Northwestern University. I'm interested in geometric analysis, in particular complex Monge-Ampère equations. 
+I'm a second year math PhD student at Northwestern University. I'm interested in geometric analysis, in particular complex Monge-Ampère equations and limit space theory.
 
 My email is huangchenzhou2029@u.northwestern.edu
 
