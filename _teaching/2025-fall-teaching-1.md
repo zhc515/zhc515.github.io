@@ -8,4 +8,7 @@ date: Sep 2025- Dec 2025
 location: "Evanston, US"
 ---
 
+- Worked as TA of Math 410-1(Analysis)
+
+
 
