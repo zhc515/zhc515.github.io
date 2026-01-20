@@ -8,4 +8,4 @@ date: Sep 2021-Dec 2021
 location: "Montreal, Canada"
 ---
 
-- Held tutorial courses of Math 139(Calculus 1 with Precalculus)
+- Worked as TA of Math 139(Calculus 1 with Precalculus)
