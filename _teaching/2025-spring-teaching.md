@@ -11,8 +11,7 @@ location: "Evanston, US"
 
 
 
-- Held tutorial courses of Math 230-2(Multivariable Integral Calculus)
-- My office hour is Tuesday 15:00-17:00, Lunt B14 and Friday 10:00-11:00, Lunt B14, or by appointment.
+- Worked as TA of Math 230-2(Multivariable Integral Calculus)
 - Worksheet solutions will be posted here:
 [Worksheet1](http://zhc515.github.io/files/Math_230_2_worksheet_1.pdf)
 [Worksheet2](http://zhc515.github.io/files/Math_230_2_worksheet_2.pdf)
