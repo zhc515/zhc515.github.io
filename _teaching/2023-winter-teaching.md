@@ -8,4 +8,4 @@ date: Jan 2023-May 2023
 location: "Montreal, Canada"
 ---
 
-- Held tutorial courses of Math 141(Calculus 2)
+- Worked as TA of Math 141(Calculus 2)
