@@ -13,6 +13,7 @@ location: "Evanston, US"
 - Solution to worksheets will be posted here:
   [Worksheet Jan 13](http://zhc515.github.io/files/Math_310_2_worksheet_Jan_13.pdf)
   [Worksheet Jan 20](http://zhc515.github.io/files/Math_310_2_worksheet_Jan_20.pdf)
-  
+  [Worksheet Jan 27](http://zhc515.github.io/files/Math_310_2_worksheet_Jan_27.pdf)
+ 
   
  
