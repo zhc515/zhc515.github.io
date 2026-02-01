@@ -11,10 +11,10 @@ location: "Evanston, US"
 - Worked as TA of Math 310-2 (Probability and Stochastic Processes)
 - My office hours are Tuesday 2-5 pm in Lunt B14, or by appointment.
 - Solution to worksheets will be posted here:
-  [Worksheet Jan 13](http://zhc515.github.io/files/Math_310_2_worksheet_Jan_13.pdf)
-  [Worksheet Jan 20](http://zhc515.github.io/files/Math_310_2_worksheet_Jan_20.pdf)
-  [Worksheet Jan 27](http://zhc515.github.io/files/Math_310_2_worksheet_Jan_27.pdf)
-  [Worksheet Feb 2](http://zhc515.github.io/files/Math_310_2_worksheet_Feb_2.pdf)
+  [Jan 13](http://zhc515.github.io/files/Math_310_2_worksheet_Jan_13.pdf)
+  [Jan 20](http://zhc515.github.io/files/Math_310_2_worksheet_Jan_20.pdf)
+  [Jan 27](http://zhc515.github.io/files/Math_310_2_worksheet_Jan_27.pdf)
+  [Feb 3](http://zhc515.github.io/files/Math_310_2_worksheet_Feb_3.pdf)
  
   
  
