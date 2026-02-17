@@ -16,6 +16,7 @@ location: "Evanston, US"
   [Jan 27](http://zhc515.github.io/files/Math_310_2_worksheet_Jan_27.pdf)
   [Feb 3](http://zhc515.github.io/files/Math_310_2_worksheet_Feb_3.pdf)
   [Feb 10](http://zhc515.github.io/files/Math_310_2_worksheet_Feb_10.pdf)
+  [Feb 10](http://zhc515.github.io/files/Math_310_2_worksheet_Feb_17.pdf)
  
   
  
