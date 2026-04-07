@@ -9,5 +9,5 @@ location: "Evanston, US"
 ---
 
 - Worked as TA of Math 368-0(Introduction to Optimization)
-
+- My office hours are Friday 12:30-1 pm and Friday 3-4 pm in Lunt B14, or by appointment.
 
