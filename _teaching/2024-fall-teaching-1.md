@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience in 2024 fall(1)"
+title: "Teaching experience in 2024 fall"
 collection: teaching assistant
 type: "Teaching assistant"
 permalink: /teaching/2024-fall-teaching-1
