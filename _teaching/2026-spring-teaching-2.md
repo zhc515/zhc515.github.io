@@ -9,5 +9,5 @@ location: "Evanston, US"
 ---
 
 - Worked as TA of Math 395-0(Undergraduate Seminar)
-
+- My office hours are Tuesday 3-4:30 pm in Lunt B14, or by appointment.
 
